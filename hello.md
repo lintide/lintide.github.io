@@ -1,8 +1,3 @@
----
-layout: post
-title: Hello github pages
----
-
 # Hello github pages
 
 使用 markdown 文件写博客并托管到 github 上，不但简单而且更易于维护

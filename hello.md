@@ -4,4 +4,4 @@
 
 1. 创建一个仓库 `username.github.io`
 2. 新建一个 `hello.md` 文件，并用 markdown 格式写内容
-3. 在浏览器打开 `http://username.github.io/hello.html`, 例如本文的链接是：`http://lintide.github.io/hello.html`, 注意，文件后缀后 `html` 而不是 `md`
+3. 在浏览器打开 `http://username.github.io/hello.html`, 例如本文的链接是：`http://lintide.github.io/hello.html`, 注意，文件后缀为 `html` 而不是 `md`

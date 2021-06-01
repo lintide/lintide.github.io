@@ -3,6 +3,6 @@
 # 目录
 
 ### 2018/06
-* [用 markdown 写 github pages](/hello.html)
+* [用 markdown 写 github pages](https://lintide.github.io/hello.html)
 
 
